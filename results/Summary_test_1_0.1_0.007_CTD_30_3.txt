@@ -1,0 +1,5 @@
+Parameter;Value
+Instance;1_0.1_0.007_CTD_30_3
+Algorithm;test
+Feasible;1
+ObjectiveFunction;0.0

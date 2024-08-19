@@ -1,0 +1,51 @@
+Instance:1_0.1_0.007_CTD_30_3
+----------------Constraints----------------
+Route walking distance limit: true
+Route duration constraints: true
+Route start-end constraints: true
+Route capacity: true
+Route time windows: true
+Each node is served by only one route: true
+Each scheduled request must be fulfilled: true
+The solution is valid
+----------------ObjectiveFunction----------------
+ObjectiveFunction: 0.0
+----------------Routes----------------
+RouteID - ObjectiveFunction
+0 - 0.0
+1 - 0.0
+2 - 0.0
+----------------Attributes----------------
+RouteID 	 Duration 	 WaitingTime 	 ServiceTime 	 ParkingTime 	 MovingTime 	 DrivingDistance 	 WalkingDistance
+0	375.9361204001834	0.0	244.7	45.0	0.0	43.11806020009173	0.0
+1	337.6531734324164	0.0	246.24	45.0	0.0	23.20658671620817	0.0
+2	363.5496507276672	0.0	251.99000000000004	45.0	0.0	33.279825363833595	0.0
+----------------Customers----------------
+NodeID - VisitedBy - Outsourced
+2 - [2] - Scheduled
+3 - [0] - Scheduled
+4 - [2] - Scheduled
+5 - [1] - Scheduled
+6 - [2] - Scheduled
+7 - [1] - Scheduled
+8 - [2] - Scheduled
+9 - [1] - Scheduled
+10 - [1] - Scheduled
+11 - [0] - Scheduled
+12 - [0] - Scheduled
+13 - [0] - Scheduled
+14 - [1] - Scheduled
+15 - [2] - Scheduled
+16 - [0] - Scheduled
+17 - [1] - Scheduled
+18 - [2] - Scheduled
+19 - [2] - Scheduled
+20 - [1] - Scheduled
+21 - [1] - Scheduled
+22 - [2] - Scheduled
+23 - [0] - Scheduled
+24 - [0] - Scheduled
+25 - [0] - Scheduled
+26 - [2] - Scheduled
+27 - [1] - Scheduled
+28 - [0] - Scheduled
